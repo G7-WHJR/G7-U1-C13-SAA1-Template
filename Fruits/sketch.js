@@ -1,10 +1,8 @@
-var fruits = ["Apple", "Mangoe", "Banana", "orange", "Strawberry", "watermelon", "grapes"];
+var fruits = ["Apple", "Mango", "Banana", "Orange"];
 
 function setup() {
 
-  
 }
-
 
 function draw() {
     
